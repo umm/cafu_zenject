@@ -1,6 +1,6 @@
 {
   "name": "@umm/cafu_zenject",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Zenject utilities for CAFU",
   "homepage": "https://github.com/umm/cafu_zenject",
   "bugs": {
