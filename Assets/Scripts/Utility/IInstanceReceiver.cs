@@ -5,7 +5,7 @@ namespace CAFU.Zenject.Utility
 {
     public interface IInstanceReceiver
     {
-        IMessageReceiver MessageReceiver { get; }
+        IMessageReceiver MessageReceiver { get; set; }
     }
 
     public static class InstanceReceiverExtensions
