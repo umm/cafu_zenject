@@ -4,7 +4,7 @@ namespace CAFU.Zenject.Utility
 {
     public interface IInstancePublisher
     {
-        IMessagePublisher MessagePublisher { get; }
+        IMessagePublisher MessagePublisher { get; set; }
     }
 
     public static class InstancePublisherExtensions
